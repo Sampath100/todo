@@ -16,3 +16,7 @@
   cursor: pointer;
   margin-right: 10px;
 }
+body {
+  background-color: black;
+  color: white; /* Ensure text is readable on dark background */
+}
